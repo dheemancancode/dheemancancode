@@ -19,8 +19,7 @@ I am Dhiman Ghosh, a Platform Engineer and Polyglot Developer, who loves hacking
 
 Also, a newbie open source contributor.
 
-I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good hands-on with web technologies such as **Node.js**, **Express Js**, etc.
-
+I mostly work in **Golang**, **Python** and little bit of **Java**.
 <p float="left">
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/golang.png" height="70" title="Golang"/>&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/python.png" height="70" title="Python"/>
@@ -56,5 +55,5 @@ I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good h
 <!--- ![Stats's](https://github-readme-stats.vercel.app/api?username=justsimplify&count_private=true&show_icons=true) --->
 
 ### 📫 Reach me @
-⦿ Shoot me an [Email](mailto:himanshu.kumar133@gmail.com)<br>
-⦿ More info about me on [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-57864196/)
+⦿ Shoot me an [Email](mailto:ghoshdhiman93@gmail.com)<br>
+⦿ More info about me on [LinkedIn](https://www.linkedin.com/in/dhiman-ghosh-270295115/)
