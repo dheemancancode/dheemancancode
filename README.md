@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Dhiman Ghosh, a Platform Engineer and Polyglot Developer, who loves hacking around problems and provide solutions. 
 
-Also, a newbie open source contributor.
+
 
 I mostly work in **Golang**, **Python** and little bit of **Java**.
 <p float="left">
@@ -41,7 +41,6 @@ I mostly work in **Golang**, **Python** and little bit of **Java**.
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/jenkins.png" height="50" title="Jenkins"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/istio.svg" height="50" title="Istio"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/efk.png" height="50" title="EFK Stack"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/velero.svg" height="50" title="Velero"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/more.png" height="20"/>
 </p>
 
